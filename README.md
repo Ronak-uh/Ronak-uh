@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Ronak Chavhan student at ITM SKILLS UNIVERSITY <br> 📚 I'm currently learning Python <br> </p>
+<p align="left">I'm Ronak Chavhan, a student at ITM SKILLS UNIVERSITY <br> 📚 I'm currently learning Python <br> </p>
 
 ###
 
