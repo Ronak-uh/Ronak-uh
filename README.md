@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ronak-uh.ronak-uh&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ronak-uh.ronak-uh"  />
 </div>
 
 ###
