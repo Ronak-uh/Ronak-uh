@@ -36,8 +36,8 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40" alt="Python logo"  />
-  <img src="https://yt3.googleusercontent.com/ytc/AIdro_lXlVT7nmWqvZSRFCgM4Fq-i1Kq9ATMxLqKqd8T4HtE4Q=s900-c-k-c0x00ffffff-no-rj" height="40" alt="Sratch logo" />
+ <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40" alt="Python logo"  />
+<a href="https://en.wikipedia.org/wiki/Scratch_(programming_language)" target="blank">  <img src="https://yt3.googleusercontent.com/ytc/AIdro_lXlVT7nmWqvZSRFCgM4Fq-i1Kq9ATMxLqKqd8T4HtE4Q=s900-c-k-c0x00ffffff-no-rj" height="40" alt="Sratch logo" />
 </div>
 
 ###
