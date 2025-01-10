@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Ronak Chavhan, a student at ITM SKILLS UNIVERSITY <br> 📚 I'm currently learning Python <br> </p>
+<p align="left">I'm Ronak Chavhan, a student at ITM SKILLS UNIVERSITY <br>  </p>
 
 ###
 
@@ -38,19 +38,13 @@
 <div align="left">
  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40" alt="Python logo"  />
 <a href="https://en.wikipedia.org/wiki/Scratch_(programming_language)" target="blank">  <img src="https://yt3.googleusercontent.com/ytc/AIdro_lXlVT7nmWqvZSRFCgM4Fq-i1Kq9ATMxLqKqd8T4HtE4Q=s900-c-k-c0x00ffffff-no-rj" height="40" alt="Sratch logo" />
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ Logo" />
+  
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ronak-uh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 <!---
 Ronak-uh/Ronak-uh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
