@@ -40,6 +40,8 @@
 <a href="https://en.wikipedia.org/wiki/Scratch_(programming_language)" target="blank">  <img src="https://yt3.googleusercontent.com/ytc/AIdro_lXlVT7nmWqvZSRFCgM4Fq-i1Kq9ATMxLqKqd8T4HtE4Q=s900-c-k-c0x00ffffff-no-rj" height="40" alt="Sratch logo" />
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ Logo" />
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png" height="40" alt="JAVA logo" />
+<a href="https://en.wikipedia.org/wiki/HTML" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML Logo" />
+<a href="https://en.wikipedia.org/wiki/CSS" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" height="40" alt="CSS Logo" />
 
 
   
